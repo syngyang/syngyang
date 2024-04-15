@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm recently building the apps with Expo and deployed "Bill Splitor" for iOS market and still ongoing for Androd market. <br>📚 knocking Solidity ...<br>🎯 Goals: deep dive into GeoCoding and Next 14.<br>🎲 Fun fact: Hiking mountains is one of the source of the strength to cheer something up.😊</p>
+<p align="left">✨ I'm recently building the apps with Expo and deployed one, "Bill Splitor", for iOS market and still ongoing for Androd market. <br>📚 knocking Solidity ...<br>🎯 Goals: deep dive into GeoCoding and Next 14.<br>🎲 Fun fact: Hiking mountains is one of the source of the strength to cheer something up.😊</p>
 
 ###
 
