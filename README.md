@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm recently brush up Linux for Docker and Kubernetes.<br>📚 knocking Solidity ...<br>🎯 Goals: deep dive into Next 14 and ...<br>🎲 Fun fact: not that much fun codingwise, rather serious😊...</p>
+<p align="left">✨ I'm recently enjoying building the apps with Expo and deployed "Bill Splitor" for iOS market and still ongoing for Androd market. <br>📚 knocking Solidity ...<br>🎯 Goals: deep dive into Next 14 and GeoCoding.<br>🎲 Fun fact: not that much fun codingwise, rather serious😊...</p>
 
 ###
 
