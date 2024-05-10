@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Syng Yang, born and raised in Seoul Korea. Travelled a lot over the world, so called, for business purpose. Since 2015, I've loved to add layers of knowledges in coding, recently JavaScript related.</p>
+<p align="left">I'm Syng Yang, born and raised in Seoul Korea. Since 2015, I have concentrated in learning the codes Now, I like to handle JavaScript most and the frameworks related.</p>
 
 ###
 
